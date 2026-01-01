@@ -1,5 +1,5 @@
 # RFM Machine Learning Project
-# Description
+## Description
 A Streamlit web application for RFM (Recency, Frequency, Monetary) analysis using machine learning to segment customers based on their purchasing behavior.
 ## Features
 - Upload your customer CSV file and preview the data
