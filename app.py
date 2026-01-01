@@ -22,7 +22,6 @@ if uploaded_file is not None:
 else:
     # Use default file from repo
     data = pd.read_csv("data (1).csv", encoding="ISO-8859-1") 
-    st.write("Data is already loaded. Click on 'Run RFM' to proceed.")
     st.subheader("Data Preview")
     st.dataframe(data.head())
     
